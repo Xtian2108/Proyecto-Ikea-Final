@@ -1,0 +1,223 @@
+fileFormatVersion: 2
+guid: 7111b059ff1a20b48a59ffee1b1deb8c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Box085
+    100002: Box086
+    100004: Box087
+    100006: Box088
+    100008: Box089
+    100010: Box090
+    100012: Box091
+    100014: Box092
+    100016: Box093
+    100018: Box095
+    100020: Box096
+    100022: Box097
+    100024: Box098
+    100026: Box099
+    100028: Box100
+    100030: //RootNode
+    400000: Box085
+    400002: Box086
+    400004: Box087
+    400006: Box088
+    400008: Box089
+    400010: Box090
+    400012: Box091
+    400014: Box092
+    400016: Box093
+    400018: Box095
+    400020: Box096
+    400022: Box097
+    400024: Box098
+    400026: Box099
+    400028: Box100
+    400030: //RootNode
+    2100000: w white
+    2100002: mirror
+    2100004: st tile
+    2100006: st wood
+    2100008: standart metal
+    2300000: Box085
+    2300002: Box086
+    2300004: Box087
+    2300006: Box088
+    2300008: Box089
+    2300010: Box090
+    2300012: Box091
+    2300014: Box092
+    2300016: Box093
+    2300018: Box095
+    2300020: Box096
+    2300022: Box097
+    2300024: Box098
+    2300026: Box099
+    2300028: Box100
+    3300000: Box085
+    3300002: Box086
+    3300004: Box087
+    3300006: Box088
+    3300008: Box089
+    3300010: Box090
+    3300012: Box091
+    3300014: Box092
+    3300016: Box093
+    3300018: Box095
+    3300020: Box096
+    3300022: Box097
+    3300024: Box098
+    3300026: Box099
+    3300028: Box100
+    4300000: Box085
+    4300002: Box086
+    4300004: Box087
+    4300006: Box088
+    4300008: Box089
+    4300010: Box090
+    4300012: Box091
+    4300014: Box092
+    4300016: Box093
+    4300018: Box095
+    4300020: Box096
+    4300022: Box097
+    4300024: Box098
+    4300026: Box099
+    4300028: Box100
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mirror
+    second: {fileID: 2100000, guid: 71887de3a7b49b947b201176ed2fae5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: st tile
+    second: {fileID: 2100000, guid: 0617fefd58fb86e44aa81d3ea468b345, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: st wood
+    second: {fileID: 2100000, guid: dbde1c29695453c44a24ded90e3824ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: standart metal
+    second: {fileID: 2100000, guid: 9c986eabab5dd014c9f05db99938e094, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: w white
+    second: {fileID: 2100000, guid: 9d875b06dead3154fa9deb53233308e3, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BIRKE B
+    second: {fileID: 2800000, guid: c5616fd6133ae704896006ca5c303262, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: METAL 6
+    second: {fileID: 2800000, guid: 1fdf4a094ea52c84f95b4ef2db361ce9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MIR
+    second: {fileID: 2800000, guid: aa0cfdd034cd05c4388ce09c76089c31, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WOOD_ORA
+    second: {fileID: 2800000, guid: a3f100ccd56a6d24ab44c63ad83fff41, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WOOD_WH1
+    second: {fileID: 2800000, guid: 7ebec312bf8f2b1459c42f5bb3ef648d, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

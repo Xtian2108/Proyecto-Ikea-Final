@@ -1,0 +1,359 @@
+fileFormatVersion: 2
+guid: fce2d92228e1028408b602fe0727a093
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: objBox01
+    100004: objBox02
+    100006: objBox03
+    100008: objBox04
+    100010: objBox05
+    100012: objBox06
+    100014: objBox07
+    100016: objcgaxis_electronics_03_01
+    100018: objLine01
+    100020: objobj_06
+    100022: objobj_07
+    100024: objobj_08
+    100026: objobj_14
+    100028: objobj_15
+    100030: objobj_16
+    100032: objobj_17
+    100034: objobj_18
+    100036: objobj_19
+    100038: objobj_20
+    100040: objobj_21
+    100042: objobj_22
+    100044: objobj_23
+    100046: objobj_24
+    100048: objRectangle01
+    100050: objRectangle32
+    100052: objRectangle37
+    100054: objRectangle38
+    100056: objRectangle39
+    100058: objTorus02
+    100060: objVCD_1
+    100062: objvcd_2
+    400000: //RootNode
+    400002: objBox01
+    400004: objBox02
+    400006: objBox03
+    400008: objBox04
+    400010: objBox05
+    400012: objBox06
+    400014: objBox07
+    400016: objcgaxis_electronics_03_01
+    400018: objLine01
+    400020: objobj_06
+    400022: objobj_07
+    400024: objobj_08
+    400026: objobj_14
+    400028: objobj_15
+    400030: objobj_16
+    400032: objobj_17
+    400034: objobj_18
+    400036: objobj_19
+    400038: objobj_20
+    400040: objobj_21
+    400042: objobj_22
+    400044: objobj_23
+    400046: objobj_24
+    400048: objRectangle01
+    400050: objRectangle32
+    400052: objRectangle37
+    400054: objRectangle38
+    400056: objRectangle39
+    400058: objTorus02
+    400060: objVCD_1
+    400062: objvcd_2
+    2100000: 21___Default
+    2100002: wire_143225087
+    2100004: wire_027177088
+    2100006: 22 - Default
+    2100008: 21 - Default
+    2100010: Material__1
+    2100012: 22___Default
+    2100014: 03___Default
+    2100016: 02___Default
+    2100018: 12___Default
+    2100020: wire_000000000
+    2100022: wire_228153184
+    2100024: 24___Default
+    2100026: 23___Default
+    2100028: wire_008110135
+    2100030: 'Material #27'
+    2300000: objBox01
+    2300002: objBox02
+    2300004: objBox03
+    2300006: objBox04
+    2300008: objBox05
+    2300010: objBox06
+    2300012: objBox07
+    2300014: objcgaxis_electronics_03_01
+    2300016: objLine01
+    2300018: objobj_06
+    2300020: objobj_07
+    2300022: objobj_08
+    2300024: objobj_14
+    2300026: objobj_15
+    2300028: objobj_16
+    2300030: objobj_17
+    2300032: objobj_18
+    2300034: objobj_19
+    2300036: objobj_20
+    2300038: objobj_21
+    2300040: objobj_22
+    2300042: objobj_23
+    2300044: objobj_24
+    2300046: objRectangle01
+    2300048: objRectangle32
+    2300050: objRectangle37
+    2300052: objRectangle38
+    2300054: objRectangle39
+    2300056: objTorus02
+    2300058: objVCD_1
+    2300060: objvcd_2
+    3300000: objBox01
+    3300002: objBox02
+    3300004: objBox03
+    3300006: objBox04
+    3300008: objBox05
+    3300010: objBox06
+    3300012: objBox07
+    3300014: objcgaxis_electronics_03_01
+    3300016: objLine01
+    3300018: objobj_06
+    3300020: objobj_07
+    3300022: objobj_08
+    3300024: objobj_14
+    3300026: objobj_15
+    3300028: objobj_16
+    3300030: objobj_17
+    3300032: objobj_18
+    3300034: objobj_19
+    3300036: objobj_20
+    3300038: objobj_21
+    3300040: objobj_22
+    3300042: objobj_23
+    3300044: objobj_24
+    3300046: objRectangle01
+    3300048: objRectangle32
+    3300050: objRectangle37
+    3300052: objRectangle38
+    3300054: objRectangle39
+    3300056: objTorus02
+    3300058: objVCD_1
+    3300060: objvcd_2
+    4300000: objBox01
+    4300002: objBox02
+    4300004: objBox03
+    4300006: objBox04
+    4300008: objBox05
+    4300010: objBox06
+    4300012: objBox07
+    4300014: objRectangle01
+    4300016: objLine01
+    4300018: objRectangle32
+    4300020: objRectangle37
+    4300022: objRectangle38
+    4300024: objRectangle39
+    4300026: objobj_16
+    4300028: objobj_17
+    4300030: objobj_18
+    4300032: objobj_19
+    4300034: objobj_20
+    4300036: objobj_15
+    4300038: objobj_14
+    4300040: objobj_21
+    4300042: objobj_22
+    4300044: objobj_23
+    4300046: objobj_24
+    4300048: objobj_07
+    4300050: objobj_08
+    4300052: objTorus02
+    4300054: objobj_06
+    4300056: objVCD_1
+    4300058: objvcd_2
+    4300060: objcgaxis_electronics_03_01
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 02___Default
+    second: {fileID: 2100000, guid: 96277ef710adbaf4aa8abf61aa8c5dc6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 03___Default
+    second: {fileID: 2100000, guid: 88bd717e1fb5c834eb889ed32dca3175, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 12___Default
+    second: {fileID: 2100000, guid: 02ef4c836e63ec8469dc50920336d823, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 21 - Default
+    second: {fileID: 2100000, guid: 6f74455c37022474fa5963da902e92fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 21___Default
+    second: {fileID: 2100000, guid: e891256104d5040489a20a8affb9a5e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 22 - Default
+    second: {fileID: 2100000, guid: 7a5e89d866d6bea409d6996445b4f2a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 22___Default
+    second: {fileID: 2100000, guid: 35d7240701357d14aaa7d2614e6f2266, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 23___Default
+    second: {fileID: 2100000, guid: 34656e395f4c92349979e9a8b2583853, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 24___Default
+    second: {fileID: 2100000, guid: 0bf3b665c8f0ceb45a56bbd74f3dab91, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #27'
+    second: {fileID: 2100000, guid: 218446ac3f750754b9d35bbcf2c914b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__1
+    second: {fileID: 2100000, guid: cc741da58bc02ac45a6b6d35935851d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wire_000000000
+    second: {fileID: 2100000, guid: 66401500c9319a74abaac2b154c91232, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wire_008110135
+    second: {fileID: 2100000, guid: d8417b308406bb64597ad9a8820732a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wire_027177088
+    second: {fileID: 2100000, guid: 223e9e4972e504940877824b976ab3aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wire_143225087
+    second: {fileID: 2100000, guid: ae86618462d3854408d4e8176e040b08, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wire_228153184
+    second: {fileID: 2100000, guid: a389a79c515ab6546a400cc7beb60580, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 3d66models-Vol04-27-1
+    second: {fileID: 2800000, guid: 25ac8b6d04a177149a4862fc2c63bb8d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 3d66models-Vol04-27-2
+    second: {fileID: 2800000, guid: e67a6ae85b2fdae4d806f42a92de2dcc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 3d66models-Vol04-27-3
+    second: {fileID: 2800000, guid: 33f110bdc3940404c9c15c62371cb01a, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,363 @@
+fileFormatVersion: 2
+guid: 7e37270056da9fb4a82c6bedd7af1cb0
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: obj____
+    100004: objBox01
+    100006: objBox03
+    100008: objBox06
+    100010: objCylinder01
+    100012: objhua
+    100014: objhua01
+    100016: objLine01
+    100018: objobj_01
+    100020: objobj_02
+    100022: objobj_03
+    100024: objobj_06
+    100026: objobj_07
+    100028: objobj_08
+    100030: objobj_09
+    100032: objobj_10
+    100034: objobj_11
+    100036: objRectangle01
+    100038: objTorus02
+    100040: objVCD_1
+    100042: objw_cg_taobao_com________464
+    100044: objw_cg_taobao_com________465
+    100046: objw_cg_taobao_com__________100
+    100048: objw_cg_taobao_com__________101
+    100050: objw_cg_taobao_com__________102
+    100052: objw_cg_taobao_com__________103
+    100054: objw_cg_taobao_com__________104
+    100056: objw_cg_taobao_com__________105
+    100058: objw_cg_taobao_com__________106
+    100060: objw_cg_taobao_com__________99
+    100062: Particle View 01
+    400000: //RootNode
+    400002: obj____
+    400004: objBox01
+    400006: objBox03
+    400008: objBox06
+    400010: objCylinder01
+    400012: objhua
+    400014: objhua01
+    400016: objLine01
+    400018: objobj_01
+    400020: objobj_02
+    400022: objobj_03
+    400024: objobj_06
+    400026: objobj_07
+    400028: objobj_08
+    400030: objobj_09
+    400032: objobj_10
+    400034: objobj_11
+    400036: objRectangle01
+    400038: objTorus02
+    400040: objVCD_1
+    400042: objw_cg_taobao_com________464
+    400044: objw_cg_taobao_com________465
+    400046: objw_cg_taobao_com__________100
+    400048: objw_cg_taobao_com__________101
+    400050: objw_cg_taobao_com__________102
+    400052: objw_cg_taobao_com__________103
+    400054: objw_cg_taobao_com__________104
+    400056: objw_cg_taobao_com__________105
+    400058: objw_cg_taobao_com__________106
+    400060: objw_cg_taobao_com__________99
+    400062: Particle View 01
+    2100000: wire_008110135
+    2100002: 20___Default
+    2100004: 21___Default
+    2100006: 12___Default
+    2100008: 11___Default
+    2100010: wire_224086086
+    2100012: wire_225088199
+    2100014: wire_135059008
+    2100016: 04___Default
+    2100018: 06___Default
+    2100020: 16___Default
+    2100022: wire_000000000
+    2100024: wire_228153184
+    2100026: wire_061135006
+    2100028: wire_108008136
+    2100030: wire_086086086
+    2100032: 24___Default
+    2100034: 23___Default
+    2300000: obj____
+    2300002: objBox01
+    2300004: objBox03
+    2300006: objBox06
+    2300008: objCylinder01
+    2300010: objhua
+    2300012: objhua01
+    2300014: objLine01
+    2300016: objobj_01
+    2300018: objobj_02
+    2300020: objobj_03
+    2300022: objobj_06
+    2300024: objobj_07
+    2300026: objobj_08
+    2300028: objobj_09
+    2300030: objobj_10
+    2300032: objobj_11
+    2300034: objRectangle01
+    2300036: objTorus02
+    2300038: objVCD_1
+    2300040: objw_cg_taobao_com________464
+    2300042: objw_cg_taobao_com________465
+    2300044: objw_cg_taobao_com__________100
+    2300046: objw_cg_taobao_com__________101
+    2300048: objw_cg_taobao_com__________102
+    2300050: objw_cg_taobao_com__________103
+    2300052: objw_cg_taobao_com__________104
+    2300054: objw_cg_taobao_com__________105
+    2300056: objw_cg_taobao_com__________106
+    2300058: objw_cg_taobao_com__________99
+    3300000: obj____
+    3300002: objBox01
+    3300004: objBox03
+    3300006: objBox06
+    3300008: objCylinder01
+    3300010: objhua
+    3300012: objhua01
+    3300014: objLine01
+    3300016: objobj_01
+    3300018: objobj_02
+    3300020: objobj_03
+    3300022: objobj_06
+    3300024: objobj_07
+    3300026: objobj_08
+    3300028: objobj_09
+    3300030: objobj_10
+    3300032: objobj_11
+    3300034: objRectangle01
+    3300036: objTorus02
+    3300038: objVCD_1
+    3300040: objw_cg_taobao_com________464
+    3300042: objw_cg_taobao_com________465
+    3300044: objw_cg_taobao_com__________100
+    3300046: objw_cg_taobao_com__________101
+    3300048: objw_cg_taobao_com__________102
+    3300050: objw_cg_taobao_com__________103
+    3300052: objw_cg_taobao_com__________104
+    3300054: objw_cg_taobao_com__________105
+    3300056: objw_cg_taobao_com__________106
+    3300058: objw_cg_taobao_com__________99
+    4300000: obj____
+    4300002: objhua
+    4300004: objhua01
+    4300006: objBox03
+    4300008: objBox06
+    4300010: objRectangle01
+    4300012: objBox01
+    4300014: objw_cg_taobao_com________464
+    4300016: objw_cg_taobao_com________465
+    4300018: objobj_01
+    4300020: objobj_02
+    4300022: objobj_03
+    4300024: objobj_07
+    4300026: objobj_08
+    4300028: objTorus02
+    4300030: objobj_06
+    4300032: objobj_09
+    4300034: objobj_10
+    4300036: objobj_11
+    4300038: objLine01
+    4300040: objCylinder01
+    4300042: objw_cg_taobao_com__________100
+    4300044: objw_cg_taobao_com__________101
+    4300046: objw_cg_taobao_com__________102
+    4300048: objw_cg_taobao_com__________103
+    4300050: objw_cg_taobao_com__________104
+    4300052: objw_cg_taobao_com__________105
+    4300054: objw_cg_taobao_com__________106
+    4300056: objw_cg_taobao_com__________99
+    4300058: objVCD_1
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 04___Default
+    second: {fileID: 2100000, guid: ba1f157001c149f46b9f951a54256cf6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 06___Default
+    second: {fileID: 2100000, guid: 31f312a09e54a134bb2f3d77b335c52b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 11___Default
+    second: {fileID: 2100000, guid: b32d8f7c7fd719846a1855fc0e3a0dc6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 12___Default
+    second: {fileID: 2100000, guid: 728065a8c3b465f469dd482003a9fe7d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 16___Default
+    second: {fileID: 2100000, guid: 9790b4bdd9432f64ea2be4091ee3605c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 20___Default
+    second: {fileID: 2100000, guid: e00ba900d51ec5249ab614115fc6f119, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 21___Default
+    second: {fileID: 2100000, guid: 859d35e57d2dd994b92e9a65d846d57b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 23___Default
+    second: {fileID: 2100000, guid: 287f7a041e153f945bbea50d50c903b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 24___Default
+    second: {fileID: 2100000, guid: 726004bb3288df34f963b67cd6b17678, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wire_000000000
+    second: {fileID: 2100000, guid: 900504667125ff340bfbe93938f9dd9b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wire_008110135
+    second: {fileID: 2100000, guid: c7541bcce533d9b4d81c3ccce89af9ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wire_061135006
+    second: {fileID: 2100000, guid: ad0b7ad020ac2ef4d8cda2020a04b43f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wire_086086086
+    second: {fileID: 2100000, guid: 8dae218cb7ba7954a907eb71f42c5ed5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wire_108008136
+    second: {fileID: 2100000, guid: 2f83dd0f88fcf5c4da9305bc7fe6bfe3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wire_135059008
+    second: {fileID: 2100000, guid: 189089f5ad80dc447a03de0cab34e995, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wire_224086086
+    second: {fileID: 2100000, guid: 545f6568a986f1845bc15872398a557c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wire_225088199
+    second: {fileID: 2100000, guid: 2daa2f2274afc0143a2ac6ff59f6710a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wire_228153184
+    second: {fileID: 2100000, guid: 8524dbcbec2403e489e24a4da64a5056, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 3d66models-Vol04-23-1
+    second: {fileID: 2800000, guid: 4feb7a7498a541e4f9a3d783c64bd594, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 3d66models-Vol04-23-2
+    second: {fileID: 2800000, guid: f5c5df4d171bac14fa9b10532cb5c205, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

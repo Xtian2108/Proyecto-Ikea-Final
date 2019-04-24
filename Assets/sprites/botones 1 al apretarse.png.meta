@@ -1,0 +1,918 @@
+fileFormatVersion: 2
+guid: b5771ff8c5e75aa41bcfd0a6a1570a5d
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: botones 1 al apretarse_0
+    21300002: botones 1 al apretarse_1
+    21300004: botones 1 al apretarse_2
+    21300006: botones 1 al apretarse_3
+    21300008: botones 1 al apretarse_4
+    21300010: botones 1 al apretarse_5
+    21300012: botones 1 al apretarse_6
+    21300014: botones 1 al apretarse_7
+    21300016: botones 1 al apretarse_8
+    21300018: botones 1 al apretarse_9
+    21300020: botones 1 al apretarse_10
+    21300022: botones 1 al apretarse_11
+    21300024: botones 1 al apretarse_12
+    21300026: botones 1 al apretarse_13
+    21300028: botones 1 al apretarse_14
+    21300030: botones 1 al apretarse_15
+    21300032: botones 1 al apretarse_16
+    21300034: botones 1 al apretarse_17
+    21300036: botones 1 al apretarse_18
+    21300038: botones 1 al apretarse_19
+    21300040: botones 1 al apretarse_20
+    21300042: botones 1 al apretarse_21
+    21300044: botones 1 al apretarse_22
+    21300046: botones 1 al apretarse_23
+    21300048: botones 1 al apretarse_24
+    21300050: botones 1 al apretarse_25
+    21300052: botones 1 al apretarse_26
+    21300054: botones 1 al apretarse_27
+    21300056: botones 1 al apretarse_28
+    21300058: botones 1 al apretarse_29
+    21300060: botones 1 al apretarse_30
+    21300062: botones 1 al apretarse_31
+    21300064: botones 1 al apretarse_32
+    21300066: botones 1 al apretarse_33
+    21300068: botones 1 al apretarse_34
+    21300070: botones 1 al apretarse_35
+    21300072: botones 1 al apretarse_36
+    21300074: botones 1 al apretarse_37
+    21300076: botones 1 al apretarse_38
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: botones 1 al apretarse_0
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 5913
+        width: 508
+        height: 508
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada43eb0a9785604188c167e478040fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botones 1 al apretarse_1
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 5913
+        width: 509
+        height: 508
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43cf87d29d8f74048b02c27243a4af5b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botones 1 al apretarse_2
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 5913
+        width: 509
+        height: 508
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30426cb66c53f0f4c9091d8e92a7080f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botones 1 al apretarse_3
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 5913
+        width: 508
+        height: 508
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df219c5795ad0b42a70302bb7ec7151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botones 1 al apretarse_4
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 5336
+        width: 508
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19020f94f37e1834cafc6babc280abd9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botones 1 al apretarse_5
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 5334
+        width: 509
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2adbee6b5af02604fb6d2291fc81582c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botones 1 al apretarse_6
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 5334
+        width: 509
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6fa3e240b98d394aa66549f222c12d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botones 1 al apretarse_7
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 5334
+        width: 508
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beafe841e4956d140a620ff225849de4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botones 1 al apretarse_8
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 4753
+        width: 508
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9df5bfeb55bb5408ddfa8584cc7a7b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botones 1 al apretarse_9
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 4753
+        width: 509
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2280b40fec4b33d448a2a64bfa7311d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botones 1 al apretarse_10
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 4753
+        width: 509
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb89809b4901944f8115b6de1f12b7e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botones 1 al apretarse_11
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 4753
+        width: 508
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a178b6339ab174cad2305ac680369d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botones 1 al apretarse_12
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 4175
+        width: 508
+        height: 508
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba7cfb0e25e24b48aba6252e4fe43ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botones 1 al apretarse_13
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 4175
+        width: 508
+        height: 508
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b727e33cf0771a842aa11c35c0599135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botones 1 al apretarse_14
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 4175
+        width: 509
+        height: 508
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ddbb6c5121d36b4db0c93f2a316e318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botones 1 al apretarse_15
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 4175
+        width: 509
+        height: 508
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa54df38ad7fa24e913405c4cde33f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botones 1 al apretarse_16
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 3594
+        width: 508
+        height: 508
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49250758941d82444b3d3262a3cc7ffc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botones 1 al apretarse_17
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 3594
+        width: 508
+        height: 508
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bafcd25e8ebaec549921f15a80fc51e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botones 1 al apretarse_18
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 3594
+        width: 509
+        height: 508
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654b574c7cd573043883106bd1941279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botones 1 al apretarse_19
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 3594
+        width: 509
+        height: 508
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebebbb1e66126934b994cfa32842ecdc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botones 1 al apretarse_20
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 3014
+        width: 508
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb6c72154848204db0a46553c3f0458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botones 1 al apretarse_21
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 3014
+        width: 508
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183a64d8afb930945bd2e7f05fa77f38
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botones 1 al apretarse_22
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 3014
+        width: 509
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3193717310f3bc04e8c1d04a78ec3c6e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botones 1 al apretarse_23
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 3014
+        width: 509
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2820c7ccee65b164faa8a4a72b05d04b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botones 1 al apretarse_24
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 2415
+        width: 508
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf97bfe91a974d140bede29708699dd5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botones 1 al apretarse_25
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 2415
+        width: 508
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2537b4f63927290448d34da9e6ab2959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botones 1 al apretarse_26
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 2415
+        width: 508
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd676c7242aafc499edd8da88621eca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botones 1 al apretarse_27
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 2415
+        width: 509
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1bcf450927a9cc4fb658faa3da0221b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botones 1 al apretarse_28
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1818
+        width: 508
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7848913704f393d458ded61f2dca6572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botones 1 al apretarse_29
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1818
+        width: 508
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26d7e21f6453f547be55890fdc555a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botones 1 al apretarse_30
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 1818
+        width: 508
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ea3daa2078ff14a94aa3ab7f434345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botones 1 al apretarse_31
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 1818
+        width: 509
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ceeb08e32907e947b087f025cba63d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botones 1 al apretarse_32
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1221
+        width: 508
+        height: 508
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710657f6fea2a364ea04418ea221b2fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botones 1 al apretarse_33
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1221
+        width: 508
+        height: 508
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d249975f5e53443bd0ca2366a63d16
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botones 1 al apretarse_34
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 1221
+        width: 508
+        height: 508
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e2d5996e609ed4e8f9d0f6a63c90cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botones 1 al apretarse_35
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 1221
+        width: 509
+        height: 508
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd15a7d600bf7804f8a3535f6f114688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botones 1 al apretarse_36
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 621
+        width: 508
+        height: 508
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ab7dab4c5353a4ab0c2ad4b2e50ea5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botones 1 al apretarse_37
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 621
+        width: 508
+        height: 508
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0363b630ed37b4888d1f5d7932e52a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: botones 1 al apretarse_38
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 621
+        width: 508
+        height: 508
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f8aaba3e6219445babe7d2cc10cb52
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b0bf3ce5406c7414e9940f6004f16ad4
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

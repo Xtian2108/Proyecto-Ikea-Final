@@ -1,0 +1,213 @@
+fileFormatVersion: 2
+guid: dc046daaa683c7f4d9611b8a993c3fda
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: bed frame
+    100002: buttons01
+    100004: buttons02
+    100006: duvet
+    100008: mattress
+    100010: //RootNode
+    100012: pillow pattern01
+    100014: pillow pattern02
+    100016: pillow plain01
+    100018: pillow plain02
+    100020: scatter cushion
+    100022: scatter cushion plain
+    100024: throw
+    400000: bed frame
+    400002: buttons01
+    400004: buttons02
+    400006: duvet
+    400008: mattress
+    400010: //RootNode
+    400012: pillow pattern01
+    400014: pillow pattern02
+    400016: pillow plain01
+    400018: pillow plain02
+    400020: scatter cushion
+    400022: scatter cushion plain
+    400024: throw
+    2100000: pillow plain dark
+    2100002: pillow plain light
+    2100004: clock cushion
+    2100006: grey silk
+    2100008: case
+    2100010: sheet
+    2100012: bed frame
+    2100014: back
+    2100016: top
+    2100018: throw
+    2300000: bed frame
+    2300002: buttons01
+    2300004: buttons02
+    2300006: duvet
+    2300008: mattress
+    2300010: pillow pattern01
+    2300012: pillow pattern02
+    2300014: pillow plain01
+    2300016: pillow plain02
+    2300018: scatter cushion
+    2300020: scatter cushion plain
+    2300022: throw
+    3300000: bed frame
+    3300002: buttons01
+    3300004: buttons02
+    3300006: duvet
+    3300008: mattress
+    3300010: pillow pattern01
+    3300012: pillow pattern02
+    3300014: pillow plain01
+    3300016: pillow plain02
+    3300018: scatter cushion
+    3300020: scatter cushion plain
+    3300022: throw
+    4300000: buttons02
+    4300002: scatter cushion
+    4300004: pillow plain02
+    4300006: scatter cushion plain
+    4300008: pillow pattern02
+    4300010: pillow plain01
+    4300012: buttons01
+    4300014: mattress
+    4300016: pillow pattern01
+    4300018: bed frame
+    4300020: duvet
+    4300022: throw
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: back
+    second: {fileID: 2100000, guid: c0752b6f9dc0b974c9a713266124974a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bed frame
+    second: {fileID: 2100000, guid: 21aa16ac5be942d4f98c569262c5b05f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: case
+    second: {fileID: 2100000, guid: a2e248a93000b5840b9217dc3d189e30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: clock cushion
+    second: {fileID: 2100000, guid: 39cbecc8d54e0524896f53ecb9a94980, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grey silk
+    second: {fileID: 2100000, guid: 49a3c3be9ce313543bca49e2f597a557, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pillow plain dark
+    second: {fileID: 2100000, guid: dd66c43551ecb9244946190a93ee5ca2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pillow plain light
+    second: {fileID: 2100000, guid: 0a107b87814062e4291a2ba2d758ff1b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sheet
+    second: {fileID: 2100000, guid: e41e46a209fae1c40a5bae035cf7f28b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: throw
+    second: {fileID: 2100000, guid: b9b13453c49e21c4ab44985c5d58bb0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: top
+    second: {fileID: 2100000, guid: 674961a798a0015459a3bc4168ea2230, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
