@@ -26,7 +26,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2543219715673953089}
   m_LocalRotation: {x: 0, y: -1, z: 0, w: 0}
-  m_LocalPosition: {x: -0, y: 0.405, z: -0.39999998}
+  m_LocalPosition: {x: -0, y: 0.405, z: 0.416}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 2543219715673919333}
@@ -164,7 +164,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2543219715673919333}
   m_Layer: 0
-  m_Name: cgaxis_models_11_45_fbx
+  m_Name: Escritorio3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
